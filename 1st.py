@@ -5,4 +5,4 @@ print()
 if(president1 == president2):
     print('Sorry');
 else:
-    print('Wow')
+    print('Wowow')
