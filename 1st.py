@@ -3,6 +3,6 @@ president2 = input('Present president surname: ')
 print()
 
 if(president1 == president2):
-    print('Sorry');
+    print('Sorry for you');
 else:
-    print('Wowowow')
+    print('Interesting')
